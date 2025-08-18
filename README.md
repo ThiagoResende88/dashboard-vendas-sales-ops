@@ -11,7 +11,9 @@ Este projeto apresenta a construção de um dashboard de análise de vendas no L
 
 ## 🖼️ Preview do Dashboard
 
-[INSERIR IMAGEM DO SEU DASHBOARD FINAL AQUI]
+
+https://github.com/user-attachments/assets/a057de7d-d9da-4d35-9d30-549d236492a8
+
 
 **🔗 [Acesse o Dashboard Interativo Aqui](https://lookerstudio.google.com/u/0/reporting/2597daed-dda9-4269-ae27-a9cdb9616e2a)**
 
@@ -71,5 +73,3 @@ Se este fosse um projeto contínuo, os próximos passos poderiam incluir:
 
 - **Thiago Dias Resende**
 - **LinkedIn:** [https://www.linkedin.com/in/thiagodiasresende/](https://www.linkedin.com/in/thiagodiasresende/)
-- **GitHub:** [Link para o seu perfil no GitHub]
-
