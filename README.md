@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/a057de7d-d9da-4d35-9d30-549d236492a8
 
 ---
 
-## 챌린지 O Desafio Proposto
+## O Desafio Proposto
 
 A tarefa consistia em criar um dashboard no Looker Studio que contivesse os seguintes elementos:
 - **Resumo Geral:** Total de vendas, ticket médio e percentual de meta atingida.
